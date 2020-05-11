@@ -53,6 +53,7 @@ body {
 }
 
 .navigation li.threeline-icon {
+	color: #FFF;
 	display: none;
 }
 
@@ -81,6 +82,7 @@ body {
 
 .profile-pic {
 	width: 40%;
+	
 	text-align: center;
 	background-color: #581D22;
 	animation-name: profile-capa;
@@ -364,7 +366,7 @@ body {
 
 .menujs li {
 	display: block;
-	border-bottom: solid grey 1px;
+	border-bottom: solid #fff 1px;
 	width: 100%;
 	padding: 0;
 
